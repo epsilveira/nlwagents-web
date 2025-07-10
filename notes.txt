@@ -1,0 +1,32 @@
+// criar pasta web
+# npm create vite@latest web
+// react / typescript
+# cd web
+# npm i
+
+// Arquivos que podem ser removidos 
+// eslint.config.js, README.md, src/assets, src/app.css, public/vite.svg
+// alterar App.tsx para app.tsx (corrigir no main.tsx)
+// limpar o index.css
+// remover eslint do package.json
+
+// para remover do node_modules o que foi removido do package.json
+# npm i
+
+# npm i @biomejs/biome -D
+# npx ultracite init
+
+// css
+# npm install tailwindcss @tailwindcss/vite
+# npm install -D @types/node
+
+// conjunto de componentes css pré-estilizados
+# npx shadcn@latest init
+// componentes
+# npx shadcn@latest add button
+
+// Roteamento web
+# npm i react-router-dom
+
+// Conexão com o backend
+# npm i @tanstack/react-query
