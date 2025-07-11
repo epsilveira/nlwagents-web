@@ -24,9 +24,13 @@
 # npx shadcn@latest init
 // componentes
 # npx shadcn@latest add button
+# npx shadcn@latest add card badge
 
 // Roteamento web
 # npm i react-router-dom
 
 // Conexão com o backend
 # npm i @tanstack/react-query
+
+// Datas
+# npm i dayjs
