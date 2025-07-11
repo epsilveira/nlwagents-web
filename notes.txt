@@ -23,8 +23,7 @@
 // conjunto de componentes css pré-estilizados
 # npx shadcn@latest init
 // componentes
-# npx shadcn@latest add button
-# npx shadcn@latest add card badge
+# npx shadcn@latest add button card badge form input textarea
 
 // Roteamento web
 # npm i react-router-dom
@@ -34,3 +33,9 @@
 
 // Datas
 # npm i dayjs
+
+// zod - validação de dados
+# npm i zod
+
+// hookform - gerenciamento de formulários
+# npm i @hookform/resolvers
