@@ -39,3 +39,6 @@
 
 // hookform - gerenciamento de formulários
 # npm i @hookform/resolvers
+
+// reconhecer a tipagem do mediarecorder
+# npm i @types/dom-speech-recognition -D
